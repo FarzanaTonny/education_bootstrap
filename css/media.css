@@ -1,0 +1,904 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+.logo{
+	height: 50px;
+}
+.menu ul li a{
+ 	text-align: right;
+ }
+ .menu ul li a:hover{
+ 	margin-left: 200px;
+ }
+ .btn_custom{
+ 	margin-left: 200px;
+ }
+ .d_user{
+ 	left: 84px;
+ }
+ .d_search{
+ 	left: -7px;
+    padding: 2px 2px;
+ }
+ .d_search input{
+ 	width: 200px;
+ }
+ .d_search button{
+ 	width: 60px
+ }
+	/*header end*/
+	/*banner start*/
+	.b_content h1 {
+    font-size: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.scroll p {
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+	/*banner end*/
+	/*about start*/
+	.kid1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.k_title h1 {
+    font-size: 23px;
+}
+.k_hr {
+	width: 190px;
+    border-bottom: 3px dashed white;
+    margin-top: 10px;
+}
+.about {
+    margin-top: 0px;
+}
+.about_content {
+    margin-top: 5px;
+}
+.about_content h2 {
+    font-size: 20px;
+}
+.about_hr {
+    width: 123px;
+    border-bottom: 2px dashed #b5b1b1;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.about_content p {
+	font-size: 13px;
+    margin-bottom: 5px;
+}
+.about_content img {
+    height: 45px;
+    margin: 5px 0px 10px;
+}
+	/*about end*/
+	/*kid2 start*/
+	.kid2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.k2_title h1{
+	font-size: 23px;
+}
+.k2_hr {
+	width: 190px;
+    border-bottom: 3px dashed white;
+}
+.k2_logo {
+    margin-top: 15px;
+}
+.k2_logo p {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+	/*kid2 end*/
+		/*course start*/
+ .course{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.course_title h1{
+	font-size: 23px;
+}
+.course_hr {
+    width: 190px;
+    border-bottom: 3px dashed white;
+    margin-bottom: 30px;
+}
+.card{
+	margin-bottom: 20px !important;
+}
+.profile {
+    margin-left: 200px !important;
+}
+ /*course end*/
+ /*moment start*/
+ .moment{
+ 	padding-top: 40px;
+ 	padding-bottom: 40px;
+ }
+ .m_title h1{
+ 	font-size: 23px;
+ }
+ .m_hr{
+ 	width: 155px;
+    border-bottom: 3px dashed white;
+    margin-bottom: 30px;
+ }
+ .moment_img {
+    margin-bottom: 0px;
+}
+.view{
+	margin-top: 15px;
+}
+.view img {
+    height: 55px;
+}
+ /*moment end*/
+ /*stand start*/
+ .stand{
+ 	padding-top: 40px;
+ 	padding-bottom: 35px;
+ }
+ .twiter img {
+    margin-bottom: 9px;
+    height: 30px;
+}
+ .twiter h5{
+ 	font-size: 12px;
+ }
+ .twiter p {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 12px 0px;
+}
+.h_hr {
+    width: 215px;
+    margin-bottom: 12px !important ;
+}
+
+.stand_title h1 {
+    font-size: 23px;
+    margin-top: 40px;
+}
+.stand_hr {
+    width: 180px;
+    border-bottom: 4px dashed white;
+    margin-bottom: 10px;
+}
+.follow{
+	text-align: center;
+	margin-top: 10px;
+}
+.follow_content{
+	margin-top: 8px !important;
+}
+.follow_img img {
+    height: 200px;
+}
+.follow_content h1{
+	margin-bottom: 5px !important;
+}
+.follow_content p{
+	line-height: 22px;
+	margin-bottom: 10px;
+}
+.follow_content img {
+    margin-bottom: 10px;
+}
+.follow_hr{
+margin-left: 100px;
+
+}
+ /*stand end*/
+  /*stand end*/
+ .what{
+ 	padding-top: 40px;
+ 	padding-bottom: 28px;
+ }
+ .what_title h1{
+ 	font-size: 23px;
+ }
+ .what_hr{
+ 	width: 155px;
+    border-bottom: 3px dashed white;
+    margin-bottom: 30px;
+ }
+ .what_item h1 {
+    font-size: 40px;
+}
+.what_item img{
+	height: 13px;
+}
+.what_item p {
+    font-size: 18px;
+    margin-top: -8px;
+}
+ /*what end*/
+  /*event start*/
+ .event{
+ 	padding-top: 40px !important;
+ 	padding-bottom:24px;
+ }
+ .timeline_title {
+    margin-bottom: 30px;
+}
+.timeline_title h1 {
+	font-size: 23px;
+    text-align: center;
+}
+.timeline_hr {
+	border-bottom: 3px dashed white;
+    margin-left: 70px;
+    width: 150px;
+}
+.timeline_img {
+    margin-bottom: 20px;
+}
+.timeline_aug {
+    margin-top: 8px !important;
+    margin-bottom: 25px;
+}
+.timeline_aug h2 {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+.start{
+	font-size: 12px;
+}
+.time{
+	font-size: 12px;
+}
+.timeline_aug p{
+	font-size: 12px;
+}
+.news_title {
+    margin-bottom: 16px;
+    margin-top: 10px;
+}
+.news_img {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.news_img img {
+    height: 150px;
+}
+.news_title h1 {
+	font-size: 23px;
+    text-align: center;
+}
+.news_hr {
+    border-bottom: 3px dashed white;
+    margin-left: 70px;
+    width: 150px;
+}
+.news_content {
+	text-align: center;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.news_content h1 {
+	font-size: 20px;
+}
+.new_hr {
+    border-bottom: 3px dotted #1ec0ff;
+    margin-bottom: 5px;
+}
+.new1_hr {
+    border-bottom: 3px dotted #56d47e;
+    margin-bottom: 5px;
+}
+.new2_hr {
+    border-bottom: 3px dotted #ffc852;
+    margin-bottom: 5px;
+}
+	.month{
+		font-size: 12px;
+	}
+	.news_content p{
+		font-size: 12px;
+	}
+ /*event end*/
+  /*letter start*/
+ .letter{
+ 	background-image: none;
+ 	background-color: white;
+ 	padding-top: 40px;
+ 	padding-bottom: 24px;
+ 	text-align: center;
+ }
+ .letter_content{
+	padding-top: 0px;
+}
+.little{
+	margin-top: 0px;
+}
+.little img {
+    height: 60px;
+    margin-bottom: 10px;
+}
+.little p {
+	font-size: 12px;
+    margin-bottom: 5px !important;
+}
+.insta{
+	margin-top: 20px;
+}
+.insta h1{
+	font-size: 20px;
+}
+.insta_img img {
+    height: 70px;
+}
+.insta_hr{
+	margin-bottom: 15px;
+	margin-left: 88px;
+}
+.contact_us{
+	margin-top: 20px;
+}
+.contact_us h1{
+	font-size: 20px;
+}
+.contact_us_hr{
+	margin-bottom: 15px;
+	margin-left: 88px;
+}
+.contact_us p {
+	font-size: 12px;
+    margin-bottom: 5px;
+}
+.signup{
+	margin-top: 20px;
+}
+.signup h1{
+	font-size: 20px;
+}
+.signup_hr{
+	margin-bottom: 15px;
+	margin-left: 55px;
+}
+.signup p{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.in{
+	height:30px;
+}
+.in1{
+	height:30px;
+}
+.l_icon {
+    margin-top: 15px;
+}
+ /*letter end*/
+
+footer{
+	padding: 20px 0px;
+}
+.f_list ul li {
+    font-size: 12px;
+}
+.f_copy{
+	float: none !important;
+}
+.f_copy p {
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+ /*footer end*/
+
+
+
+
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.logo{
+		height: 60px;
+	}
+	.menu ul li a{
+ 	text-align: right;
+ }
+ .menu ul li a:hover{
+ 	margin-left: 400px;
+ }
+ .btn_custom{
+ 	margin-left: 416px;
+ }
+ .d_user{
+ 	left: 300px;
+ }
+ .d_search{
+ 	left: 174px;
+ 	padding: 2px 2px;
+ }
+	/*header end*/
+	/*banner start*/
+	.b_content h1 {
+    font-size: 38px;
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+.scroll p {
+    font-size: 15px;
+   margin-bottom: 0px;
+}
+	/*banner end*/
+	/*about start*/
+	.kid1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about {
+    margin-top: 0px;
+}
+.about_hr {
+    margin-top: 3px;
+}
+.about_content img {
+    height: 50px;
+}
+.about_img {
+    margin-top: 20px;
+}
+	/*about end*/
+	/*kid2 start*/
+	.kid2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.k2_logo {
+    margin-top: 25px;
+}
+.k2_logo p {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+	/*kid2 end*/
+	/*course start*/
+ .course{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.course_hr {
+   margin-bottom: 50px;
+}
+.profile {
+    margin-left: 165px;
+}
+ /*course end*/
+ /*moment start*/
+ .moment{
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ }
+ .m_hr{
+ 	margin-bottom: 50px;
+ }
+ .moment_img {
+    margin-bottom: 5px;
+}
+.view img{
+	height: 65px;
+}
+ /*moment end*/
+ /*stand start*/
+ .stand{
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ }
+ .twiter img {
+    margin-bottom: 9px;
+    height: 38px;
+}
+ .twiter h5{
+ 	font-size: 13px;
+ }
+ .twiter p {
+    font-size: 13px;
+    line-height: 25px;
+    margin: 12px 0px;
+}
+ .stand_title h1 {
+    margin-top: 35px;
+}
+ .stand_hr {
+    margin-bottom: 15px;
+}
+ /*stand end*/
+ .what{
+ 	padding-top: 50px;
+ 	padding-bottom: 34px;
+ }
+ .what_item h1 {
+    font-size: 45px;
+}
+.what_item p {
+    font-size: 20px;
+}
+ /*what end*/
+ /*event start*/
+ .event{
+ 	padding-top: 50px !important;
+ 	padding-bottom:20px;
+ }
+ .timeline_title {
+    margin-bottom: 40px;
+}
+.timeline_title h1 {
+    text-align: center;
+}
+.timeline_hr {
+    margin-left: 157px;
+}
+.timeline_img {
+    margin-bottom: 25px;
+    padding-left: 55px;
+}
+.timeline_aug {
+    margin-top: 8px !important;
+    margin-bottom: 25px;
+}
+.news_title {
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+.news_img {
+    margin-top: 20px;
+}
+.news_title h1 {
+    text-align: center;
+}
+.news_hr {
+    margin-left: 157px;
+}
+.news_content {
+    margin-top: 0px !important;
+    margin-bottom: 30px !important;
+}
+ /*event end*/
+  /*letter start*/
+ .letter{
+ 	background-image: none;
+ 	background-color: white;
+ 	padding-top: 50px;
+ 	padding-bottom: 34px;
+ }
+ .letter_content{
+	padding-top: 0px;
+}
+.little{
+	margin-top: 0px;
+}
+.little img {
+    height: 70px;
+}
+.insta{
+	margin-top: 0px;
+}
+.insta_img img {
+    height: 70px;
+}
+.insta_hr{
+	margin-bottom: 20px;
+}
+.contact_us{
+	margin-top: 25px;
+}
+.contact_us_hr{
+	margin-bottom: 20px;
+}
+.contact_us p {
+    margin-bottom: 10px;
+}
+.signup{
+	margin-top: 25px;
+}
+.signup_hr{
+	margin-bottom: 20px;
+}
+ /*letter end*/
+  /*footer start*/
+footer{
+	padding: 25px 0px;
+}
+.f_list ul li {
+    font-size: 15px;
+}
+.f_copy{
+	float: none !important;
+}
+.f_copy p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+ /*footer end*/
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+ /*header start*/
+ .menu ul li a{
+ 	text-align: right;
+ }
+ .menu ul li a:hover{
+ 	margin-left: 600px;
+ }
+ .btn_custom{
+ 	margin-left: 597px
+ }
+ .d_user{
+ 	left: 483px;
+ }
+ .d_search{
+ 	left: 350px;
+ 	padding: 3px 4px;
+ }
+ /*header end*/
+ /*banner start*/
+ .b_content h1 {
+ 	font-size: 40px;
+    margin-top: 145px;
+    margin-bottom: 145px;
+}
+.scroll p{
+	font-size: 15px;
+	margin-bottom: 0px;
+}
+ /*banner end*/
+ /*about start*/
+.kid1 {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.about_content {
+    margin-top: 0px;
+}
+.about_hr {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+.about_content img {
+    height: 45px;
+}
+.about_img {
+    padding-top: 30px;
+}
+ /*about end*/
+ /*kid2 start*/
+ .kid2{
+ 	padding-top: 65px;
+ 	padding-bottom: 49px;
+ }
+ /*kid2 end*/
+ /*course start*/
+ .course{
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+.course_hr {
+   margin-bottom: 50px;
+}
+.card{
+	margin-left: 30px !important;
+	margin-right: 30px !important;
+	margin-bottom: 40px !important
+}
+.profile {
+    margin-left: 175px !important;
+}
+ /*course end*/
+ /*moment start*/
+ .moment{
+ 	padding-top: 65px;
+ 	padding-bottom: 65px;
+ }
+ .m_hr{
+ 	    margin-bottom: 55px;
+ }
+ .view {
+    margin-top: 30px;
+}
+ /*moment end*/
+ /*stand start*/
+ .stand{
+ 	padding-top: 65px;
+ 	padding-bottom: 65px;
+ }
+ .twiter img {
+    margin-bottom: 12px;
+}
+ .twiter p{
+ 	margin: 15px 0px;
+ }
+ .stand_title h1 {
+    margin-top: 40px;
+}
+ .stand_hr {
+    margin-bottom: 20px;
+}
+ .follow {
+    padding: 0px 70px;
+}
+.follow_content {
+    margin-top: 30px !important;
+}
+ /*stand end*/
+ /*what start*/
+ .what{
+ 	padding-top: 65px;
+ 	padding-bottom: 49px;
+ }
+ .what_item h1 {
+    font-size: 50px;
+}
+.what_item p {
+    font-size: 22px;
+}
+ /*what end*/
+ /*event start*/
+ .event{
+ 	padding-top: 65px !important;
+ 	padding-bottom: 30px;
+ }
+ .timeline_title {
+    margin-bottom: 40px;
+}
+.timeline_title h1 {
+    text-align: center;
+}
+.timeline_hr {
+    margin-left: 248px;
+}
+.timeline_img {
+    margin-bottom: 30px;
+    padding-left: 100px;
+}
+.timeline_aug {
+    margin-top: 15px !important;
+    margin-bottom: 30px;
+}
+.news_title {
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+.news_title h1 {
+    text-align: center;
+}
+.news_hr {
+    margin-left: 248px;
+}
+.news_content {
+    margin-top: 22px !important;
+}
+ /*event end*/
+ /*letter start*/
+ .letter{
+ 	background-image: none;
+ 	background-color: white;
+ 	padding-top: 65px;
+ 	padding-bottom: 49px;
+ }
+ .letter_content{
+	padding-top: 0px;
+}
+.little{
+	margin-top: 0px;
+}
+.insta{
+	margin-top: 0px;
+}
+.insta_hr{
+	margin-bottom: 20px;
+}
+.contact_us{
+	margin-top: 30px;
+}
+.contact_us_hr{
+	margin-bottom: 25px;
+}
+.signup{
+	margin-top: 30px;
+}
+.signup_hr{
+	margin-bottom: 25px;
+}
+ /*letter end*/
+ /*footer start*/
+
+.f_list ul li {
+    font-size: 15px;
+}
+
+.f_copy p {
+    font-size: 12px;
+}
+ /*footer end*/
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.b_content h1 {
+    margin-top: 205px;
+    margin-bottom: 205px;
+}
+/*banner end*/
+/*about start*/
+.about_content{
+	margin-top: 0px;
+}
+.about_content img {
+    height: 60px;
+}
+.about_hr {
+    margin-top: 10px;
+}
+/*about end*/
+/*course start*/
+}
+.card-title {
+    font-size: 23px;
+}
+.card-text {
+    font-size: 13px;
+}
+.profile {
+    margin-left: 140px;
+}
+/*course end*/
+/*stand start*/
+
+.follow_img img {
+    margin-top: 7px;
+}
+.follow_content{
+	    margin-top: 0px;
+}
+
+/*stand end*/
+/*event start*/
+.event{
+	padding-top: 80px;
+	padding-bottom: 35px;
+}
+.timeline_aug {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.news_content {
+    margin-top: -20px;
+    margin-bottom: 45px;
+}
+/*event end*/
+/*letter start*/
+.insta_img img {
+    height: 65px;
+}
+/*letter end*/
+
+/*footer start*/
+.f_list ul li {
+    margin-right: 4px !important;
+}
+/*footer end*/
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
